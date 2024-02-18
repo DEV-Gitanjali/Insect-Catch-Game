@@ -23,6 +23,14 @@ body{
     font-family: inherit;
     cursor: pointer;
 }
+.btn:hover{
+opacity: 0.9;
+}
+
+.btn:focus{
+    outline: 0;
+
+}
     
 .screen{
     display: flex;
