@@ -128,4 +128,12 @@ opacity: 0.9;
     opacity: 1;
 }
 
+.insect{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+
 
